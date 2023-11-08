@@ -47,7 +47,7 @@ To conduct a robust evaluation, a test set consisting of 30 random images was se
 | MobileNet     | 0.57     | 1.65    |
 
 1. **Comparitive Accuracy Graph**<br>
-    ![image](https://github.com/chetan0220/emotion_detection/assets/97821311/ea492a02-9e51-40d4-8503-32f578a94f30)
+   ![image](https://github.com/chetan0220/emotion_detection/assets/97821311/ea492a02-9e51-40d4-8503-32f578a94f30)
 
 2. **Comparitive Loss Graph**<br>
    ![image](https://github.com/chetan0220/emotion_detection/assets/97821311/0357539d-1a59-4550-a7bd-08f26898fc9e)
