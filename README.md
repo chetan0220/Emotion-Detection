@@ -20,20 +20,20 @@ In this project, four different models were utilized for the task of emotion rec
 Each of these models was carefully considered to offer a diverse range of architectures, from custom designs to pre-trained state-of-the-art networks. By using and comparing these models, the project aimed to identify which architecture would provide the most accurate and efficient solution for facial emotion recognition, contributing to a comprehensive understanding of their performance in this context.
 # Evaluation
 To conduct a robust evaluation, a test set consisting of 30 random images was selected. These images were distinct from the training data, ensuring an unbiased assessment of the models' generalization capabilities. Each model, including the Custom CNN, EfficientNet, ResNet50, and MobileNet, was subjected to this evaluation. Here are the reults.
-1. **Custom CNN (Convolutional Neural Network):**
+1. **Custom CNN (Convolutional Neural Network):**<br>
    ![image](https://github.com/chetan0220/emotion_detection/assets/97821311/5a8fc861-4523-4e72-8bac-1aaf69bad4fe)
 
 
-3. **EfficientNet:**
+3. **EfficientNet:**<br>
    ![image](https://github.com/chetan0220/emotion_detection/assets/97821311/49b0289f-3012-436c-ba6e-b3d9baa2b1f3)
 
 
-4. **ResNet50:**
+4. **ResNet50:**<br>
    ![image](https://github.com/chetan0220/emotion_detection/assets/97821311/6edb3436-b13b-4e29-82e8-ceb6b37b3763)
 
 
 
-5. **MobileNet:**
+5. **MobileNet:**<br>
    ![image](https://github.com/chetan0220/emotion_detection/assets/97821311/da5698fe-552e-4cb0-a705-dac7b92c1c51)
 
 
