@@ -44,8 +44,6 @@ To conduct a robust evaluation, a test set consisting of 30 random images was se
 
 1. **Comparitive Accuracy Graph**<br>
     
-
 2. **Comparitive Loss Graph**<br>
-  
+   ![loss](https://github.com/chetan0220/emotion_detection/assets/97821311/3d9c1828-2d37-4856-a03a-b83b7dbd6019)
 
-   
