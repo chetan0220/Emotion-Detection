@@ -24,16 +24,16 @@ To conduct a robust evaluation, a test set consisting of 30 random images was se
    ![image](https://github.com/chetan0220/emotion_detection/assets/97821311/5a8fc861-4523-4e72-8bac-1aaf69bad4fe)
 
 
-2. **EfficientNet:**
+3. **EfficientNet:**
    ![image](https://github.com/chetan0220/emotion_detection/assets/97821311/49b0289f-3012-436c-ba6e-b3d9baa2b1f3)
 
 
-3. **ResNet50:**
+4. **ResNet50:**
    ![image](https://github.com/chetan0220/emotion_detection/assets/97821311/6edb3436-b13b-4e29-82e8-ceb6b37b3763)
 
 
 
-4. **MobileNet:**
+5. **MobileNet:**
    ![image](https://github.com/chetan0220/emotion_detection/assets/97821311/da5698fe-552e-4cb0-a705-dac7b92c1c51)
 
 
