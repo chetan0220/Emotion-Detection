@@ -21,16 +21,18 @@ Each of these models was carefully considered to offer a diverse range of archit
 # Evaluation
 To conduct a robust evaluation, a test set consisting of 30 random images was selected. These images were distinct from the training data, ensuring an unbiased assessment of the models' generalization capabilities. Each model, including the Custom CNN, EfficientNet, ResNet50, and MobileNet, was subjected to this evaluation. Here are the reults.
 1. **Custom CNN (Convolutional Neural Network):**
-   - ![image](https://github.com/chetan0220/emotion_detection/assets/97821311/be548efc-41e2-40d5-a91e-97d5a9bc8539)
+   - 
 
 2. **EfficientNet:**
-   - ![image](https://github.com/chetan0220/emotion_detection/assets/97821311/80068b4d-5771-4695-8152-6a91f0c6c4c8)
+   - 
 
 3. **ResNet50:**
-   ![image](https://github.com/chetan0220/emotion_detection/assets/97821311/d489866d-3a2b-4e29-b25e-c79658fc780a)
+   - 
+
 
 4. **MobileNet:**
-   ![image](https://github.com/chetan0220/emotion_detection/assets/97821311/ae5ea2bb-f4d1-4a8b-a39c-1a815fecf4b3)
+   - 
+
 
 # Results
 | Model          | Accuracy | Loss    |
@@ -41,9 +43,9 @@ To conduct a robust evaluation, a test set consisting of 30 random images was se
 | MobileNet     | 0.57     | 1.65    |
 
 1. **Comparitive Accuracy Graph**<br>
-    ![image](https://github.com/chetan0220/emotion_detection/assets/97821311/e4f7d640-c5e6-479b-98c4-fe35541f5961)<br>
+    
 
 2. **Comparitive Loss Graph**<br>
-   ![image](https://github.com/chetan0220/emotion_detection/assets/97821311/4d1c998b-9c93-42f0-9582-e26ee3cc02e4)<br>
+  
 
    
