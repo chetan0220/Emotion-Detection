@@ -21,20 +21,23 @@ Each of these models was carefully considered to offer a diverse range of archit
 # Evaluation
 To conduct a robust evaluation, a test set consisting of 30 random images was selected. These images were distinct from the training data, ensuring an unbiased assessment of the models' generalization capabilities. Each model, including the Custom CNN, EfficientNet, ResNet50, and MobileNet, was subjected to this evaluation. Here are the reults.
 1. **Custom CNN (Convolutional Neural Network):**<br>
-   ![image](https://github.com/chetan0220/emotion_detection/assets/97821311/5a8fc861-4523-4e72-8bac-1aaf69bad4fe)
+![cnn](https://github.com/chetan0220/emotion_detection/assets/97821311/0e04ec0c-ff76-456b-82c3-1ad13d9d845a)
+
 
 
 3. **EfficientNet:**<br>
-   ![image](https://github.com/chetan0220/emotion_detection/assets/97821311/49b0289f-3012-436c-ba6e-b3d9baa2b1f3)
+![effnet](https://github.com/chetan0220/emotion_detection/assets/97821311/96fc7167-c622-4382-a7ac-500589e4047f)
 
 
 4. **ResNet50:**<br>
-   ![image](https://github.com/chetan0220/emotion_detection/assets/97821311/6edb3436-b13b-4e29-82e8-ceb6b37b3763)
+![resnet](https://github.com/chetan0220/emotion_detection/assets/97821311/8d06e4fc-5c39-40aa-ae26-aa0bfe52f887)
+
 
 
 
 5. **MobileNet:**<br>
-   ![image](https://github.com/chetan0220/emotion_detection/assets/97821311/da5698fe-552e-4cb0-a705-dac7b92c1c51)
+![mobilenet](https://github.com/chetan0220/emotion_detection/assets/97821311/adc34a03-c81a-4555-940a-87f0ec1d1e55)
+
 
 
 
@@ -47,9 +50,7 @@ To conduct a robust evaluation, a test set consisting of 30 random images was se
 | MobileNet     | 0.57     | 1.65    |
 
 1. **Comparitive Accuracy Graph**<br>
-   ![image](https://github.com/chetan0220/emotion_detection/assets/97821311/ea492a02-9e51-40d4-8503-32f578a94f30)
+![acc](https://github.com/chetan0220/emotion_detection/assets/97821311/4db2fbbf-ccb7-405c-b518-b65a981bbf55)
 
 2. **Comparitive Loss Graph**<br>
-   ![image](https://github.com/chetan0220/emotion_detection/assets/97821311/0357539d-1a59-4550-a7bd-08f26898fc9e)
-
-
+![loss](https://github.com/chetan0220/emotion_detection/assets/97821311/7b918d04-cb39-4bdc-ad6b-55a49066da91)
