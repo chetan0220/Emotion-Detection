@@ -53,4 +53,7 @@ To conduct a robust evaluation, a test set consisting of 30 random images was se
 ![acc](https://github.com/chetan0220/emotion_detection/assets/97821311/4db2fbbf-ccb7-405c-b518-b65a981bbf55)
 
 2. **Comparitive Loss Graph**<br>
-![loss](https://github.com/chetan0220/emotion_detection/assets/97821311/7b918d04-cb39-4bdc-ad6b-55a49066da91)
+![loss](https://github.com/chetan0220/emotion_detection/assets/97821311/7b918d04-cb39-4bdc-ad6b-55a49066da91)<br>
+
+---
+If you have any query, feedback or suggestion feel free to drop a mail at chetan.mahale0220@gmail.com :) 
