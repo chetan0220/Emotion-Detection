@@ -1,5 +1,6 @@
 # Emotion Recognition : A Comparitive Analysis
-This project utilizes Deep Learning models such as ResNet-50, MobileNet, EfficientNet and a custom CNN for emotion detection. The CNN model gave maximum accuracy.
+This project utilizes Deep Learning models such as ResNet-50, MobileNet, EfficientNet and a custom CNN for emotion detection. The CNN model gave maximum accuracy.<br>
+Check out the **Publication** [here](https://ieeexplore.ieee.org/document/10593095).
 # Data Preprocessing
 The [Face expression recognition dataset](https://www.kaggle.com/datasets/jonathanoheix/face-expression-recognition-dataset) dataset from Kaggle consists of images for seven emotion classes: sad, happy, angry, disgust, fear, neutral, and surprise. The dataset comprises a total of 28,820 images for training and 7,066 images for testing, with each image having dimensions of 48x48 pixels. An imbalance was observed in the dataset, which means that certain emotion classes had more data samples than others. To address this issue and enhance the model's performance, data augmentation techniques were employed during the preprocessing stage. These techniques involve generating additional training examples by applying transformations like rotation, scaling, and flipping to the existing images, thereby helping to mitigate the data imbalance and improve the model's ability to generalize across all emotion classes.
 # Models
