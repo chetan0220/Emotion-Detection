@@ -1,5 +1,7 @@
 # Emotion Recognition : A Comparitive Analysis
+
 This project utilizes Deep Learning models such as ResNet-50, MobileNet, EfficientNet and a custom CNN for emotion detection. The CNN model gave maximum accuracy.<br>
+
 ---
 
 Check out the **Publication** [here](https://ieeexplore.ieee.org/document/10593095).
